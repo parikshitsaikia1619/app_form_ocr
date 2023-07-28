@@ -4,9 +4,9 @@ Tesseract is an open-source Optical Character Recognition (OCR) engine that can 
 
 ## Python
 
-pip install pytesseract
+`pip install pytesseract`
 
-repo: https://github.com/tesseract-ocr/tesseract
+Repo: https://github.com/tesseract-ocr/tesseract
 
 ## Windows
 
@@ -31,5 +31,5 @@ repo: https://github.com/tesseract-ocr/tesseract
 sudo apt install tesseract-ocr
 ```
 
-* https://github.com/tesseract-ocr/tessdata 
-* download tessdata and replace it in your tessearct-ocr dir.
+* language pack: https://github.com/tesseract-ocr/tessdata 
+* Download tessdata and replace it in your tessearct-ocr dir.
